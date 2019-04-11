@@ -7,3 +7,5 @@ usethis::use_github(protocol =  "https")
 
 
 usethis::use_readme_md()
+
+#fajes;kfapk;ifjeqpka;ijgapke;iogjape;
